@@ -928,16 +928,6 @@ const pessoas = [
       "idade": 18,
       "sexo": "",
       "cpf": "662.326.127-36"
-    },
-    {
-      "nome": "Alícia",
-      "email": "alicia@hotmail.com",
-      "salario": 44016,
-      "estado": "BA",
-      "empresa": "Google",
-      "idade": 20,
-      "sexo": "F",
-      "cpf": "174.282.537-05"
     }
 ]
 
